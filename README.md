@@ -1,0 +1,1 @@
+These codes are used for modeling the inner crust of neutron stars (not including the pasta layer). The publicatiosn from which the formulas are used and further derived for reserach purposes are annotated in the 'Description' section. 
